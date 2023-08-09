@@ -12,6 +12,7 @@
 <a href="https://twitter.com/atharva_sachan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharva_sachan_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-sachan-975848252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-sachan-975848252" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/atharva_sachan_?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/atharva_sachan_?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/hK8MFGBP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hK8MFGBP" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
