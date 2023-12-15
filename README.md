@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvasachan123&label=Profile%20views&color=0e75b6&style=flat" alt="atharvasachan123" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Reactjs And JAVA**
 
 - 📫 How to reach me **atharvasachan823@gmail.com**
+- 👨🏼‍💻 Ask ME About **Data Structure And Algorithm and Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
