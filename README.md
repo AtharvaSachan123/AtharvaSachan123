@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript,Nextjs**
 
-- 👨‍💻 All of my projects are available at [atharva1.vercel.app](https://atharva1.vercel.app/)
+- 👨‍💻 All of my projects are available at [atharva1.vercel.app](https://atharva1.vercel.app)
 
 - 💬 Ask me about **Web development and Data Structure and Algorithms**
 
