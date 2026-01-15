@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvasachan123&label=Profile%20views&color=0e75b6&style=flat" alt="atharvasachan123" /> </p>
 
-- 🔭 I’m currently working on **Prescripto**
-
-- 🌱 I’m currently learning **TypeScript,Nextjs**
-
-- 👨‍💻 All of my projects are available at [atharva1.vercel.app](https://atharva1.vercel.app)
+- 🔭 I’m currently in  **Juspay**
 
 - 💬 Ask me about **Web development and Data Structure and Algorithms**
 
